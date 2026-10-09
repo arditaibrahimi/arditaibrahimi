@@ -5,9 +5,9 @@ I'm building on my computer science background by deepening my understanding of 
 
 🌱 I’m currently studying for the **CompTIA Network+ certification.**
 
-💬 Ask me about **Python, C++, my journey into cybersecurity.**
+💬 Ask me about **Python, C++, and my journey into cybersecurity.**
 
-⚡ Fun fact **I enjoy baking and cake decorating and collecting artwork.**
+⚡ Fun fact **I enjoy baking, cake decorating, and collecting artwork.**
 
 <!--
 **arditaibrahimi/arditaibrahimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
